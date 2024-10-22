@@ -1,0 +1,7 @@
+
+Flask
+matplotlib
+matplotlib-inline
+numpy
+pandas
+scikit-learn
