@@ -33,6 +33,7 @@ Visual Studio Code is a lightweight but powerful source code editor which runs o
 
 ## Step 3: Download the StudentWork folder
 - Download the *StudentWork.zip* file and unzip it into an empty folder.
+    - Note - if you are viewing this on GitHub, just clone this repository.
 - Open Visual Studio Code 
 - Choose *File/Open Folder...* and open **Labs** in unzipped *StudentWork* folder. 
 
