@@ -1,0 +1,8 @@
+Flask
+ipykernel
+ipython
+ipython-genutils
+ipywidgets
+numpy==1.23.0
+pandas
+secml 
