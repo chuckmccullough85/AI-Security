@@ -37,11 +37,11 @@ Visual Studio Code is a lightweight but powerful source code editor which runs o
 - Open Visual Studio Code 
 - Choose *File/Open Folder...* and open **Labs** in unzipped *StudentWork* folder. 
 
-## Step 4: Install Extensions ![extensions](images/extensions.png)
+## Step 4: Install Extensions ![extensions](Images/extensions.png)
 - VS Code will probably ask to install several extensions.
 - Click the *Install* button to install the recommended extensions.
 
-If VSCode did not offer to install the extensions, click the Extensions icon ![extensions](images/extensions.png) on the left side of the window.  Search for the following extensions and install them.
+If VSCode did not offer to install the extensions, click the Extensions icon ![extensions](Images/extensions.png) on the left side of the window.  Search for the following extensions and install them.
 
 | Extension | Icon |
 |--------------------------|--------------------------|
