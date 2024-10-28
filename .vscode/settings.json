@@ -1,0 +1,6 @@
+{
+    "jupyter.notebookFileRoot": "${workspaceFolder}/code",
+    "python.analysis.extraPaths": [
+        "./code"
+    ],
+}
